@@ -54,7 +54,7 @@ void calculate_gpa()
 		cout<<"Enter the obtained marks for subject "<<i+1<<":"<<endl;
 		cin>>credit[i];
 		cout<<"Enter the points for subject "<<i+1<<":"<<endl;
-		cin>>credit[i];
+		cin>>point[i];
 	}
 	float sum=0;
 	float total=0;
